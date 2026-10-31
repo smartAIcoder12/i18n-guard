@@ -1,0 +1,12 @@
+{
+  "name": "i18n-guard",
+  "version": "1.0.0",
+  "description": "Keeps every language of an app in step with the English source.",
+  "private": true,
+  "main": "index.js",
+  "files": ["index.js", "README.md"],
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test"
+  }
+}
